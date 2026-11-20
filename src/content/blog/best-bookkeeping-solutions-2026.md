@@ -1,7 +1,6 @@
 ---
 order: 0
-title: "Best Bookkeeping Solutions in 2026: The Ultimate Guide to AI-Powered
-  Bookkeeping for Small Businesses."
+title: "hello this test update"
 excerpt: Compare AI-powered software, outsourced services and hybrid options to
   find the bookkeeping solution that fits your UK business in 2026.
 coverImage: /blogs/best-bookkeeping-solutions-2026-cover.jpg
